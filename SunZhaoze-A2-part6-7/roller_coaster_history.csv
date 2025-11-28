@@ -1,0 +1,6 @@
+Name,Age,Email,VisitorID,TicketType
+Emma,24,emma@email.com,V101,Premium
+Noah,31,noah@email.com,V102,Standard
+Olivia,29,olivia@email.com,V103,Premium
+Liam,26,liam@email.com,V104,Standard
+Ava,22,ava@email.com,V105,Student
