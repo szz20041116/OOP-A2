@@ -1,12 +1,19 @@
 Project structure overview
 Szz-A2/
 ├── src/
+
 │   ├── AssignmentTwo.java
+
 │   ├── Person.java
+
 │   ├── Employee.java
+
 │   ├── Visitor.java
+
 │   ├── Ride.java
+
 │   └── RideInterface.java
+
 
 -2025/11/27 Create all files and required variables.
 
